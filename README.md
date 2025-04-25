@@ -21,3 +21,7 @@ The vision is to develop a secure, decentralized, and transparent time managemen
 - **Collaborative Tasks:** Enable group tasks with multiple users and decentralized approvals.
 - **Task Categories and Deadlines:** Add fields for categorization and deadline enforcement via contract logic.
 - **Gamification Layer:** Incentivize users with badges or tokens for productivity streaks.
+
+## Contract Details
+CDJSCMEJSN7LRQYBHZ5NAHAUVIF22TAH3FYTJ5GY5IR2E73LJLHQYJBG
+![image](https://github.com/user-attachments/assets/09bbfa83-42b4-4120-9e8f-3ad593aa81c3)
